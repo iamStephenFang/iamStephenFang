@@ -2,9 +2,9 @@
 I'm StephenFang, who like programming lovely mobile applications.
 
 ## 🏫 Education
- - 🎓 Zhejiang University of Technology ｜ B.E. in Software Engineering
- - 💼 Hangzhou NetEase Cloud Music Technology Co., Ltd ｜ iOS Development Engineer 
- - ✏️ Knowledge Graph & Big Data
+ - 🎓 Zhejiang University of Technology ｜ B.E. in Software Engineering | ✏️ Knowledge Graph & Big Data
+ - 💼 Hangzhou NetEase Cloud Music Technology Co., Ltd ｜ Senior iOS Engineer 
+ - 🎓 The Hong Kong Polytechnic University ｜ Msc student in Information Technology | Currently
 
 ## 💻 Expertise
 - iOS Application Development [Swift | Objective-C]
