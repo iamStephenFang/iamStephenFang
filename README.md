@@ -10,13 +10,6 @@ I'm StephenFang, who like programming lovely mobile applications.
  - 🎓 The Hong Kong Polytechnic University ｜ MSc in Information Technology | 🤖 Artificial Intelligence 
  - 🎓 Zhejiang University of Technology ｜ B.E. in Software Engineering | ✏️ Knowledge Graph & Big Data
 
-## 💻 Expertise
-- Mobile Application Development [Swift & Objective-C | React Native]
-- Front-end Development [Vue.js | Bootstrap | Next.js]
-- Back-end Development [Vapor | Node.js | Java EE | ASP.NET]
-- Database [MySQL | MongoDB | SQLite | Neo4j]
-- Prototype Design [Sketch | Figma | Framer]
-
 ## 📮 How to reach me
 - Telegram [https://t.me/stephenfang](https://t.me/stephenfang)
 - LinkedIn [https://www.linkedin.com/in/stephen-fang-aa811a32/](https://www.linkedin.com/in/stephen-fang-aa811a32/)
